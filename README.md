@@ -1,8 +1,8 @@
 ### Hi there
 
-I cannot share my assignments due to the **policy** my uni has; however, these are the ones I've done for now in my master's degree.
+I'm an MSc Artificial Intelligence student in London.
 
-Hi there, I'm an MSc Artificial Intelligence student in London.
+I cannot share my assignments due to the **policy** my uni has; however, these are the ones I've done for now in my master's degree.
 
 **Semester-1**
 - **Machine Learning**: Assignment-1: Linear Regression, Assignment-2: Logistic Regression and Neural
