@@ -23,10 +23,11 @@ I cannot share my assignments due to the **policy** my uni has; however, these a
 **Semester-2**
 - **Neural Network and NLP**: 
 - Assignment-1: Embeddings, Text Classification, and Machine Translation
+- Assignment-2: Pre-trained transformers, information extraction and dialogue
 - **Deep Learning and Computer Vision**: 
 - Assignment-1: CNN Model for Super-Resolution 
 - Assignment-2: Unsupervised Learning by GAN
 - **Neural Networks and Deep Learning**: 
 - Assignment-1: Fashion MNIST Classification
 - **Computational Creativity: Assignment**: 
-- Personal Project
+- Food recipe generator and the image generation from the recipes using LSTM and Big Sleep 
