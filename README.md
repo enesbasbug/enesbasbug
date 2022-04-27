@@ -2,7 +2,7 @@
 
 I'm an MSc Artificial Intelligence student in London.
 
-I cannot share my assignments due to the **policy** my uni has; however, these are the ones I've done during my master's degree.
+I cannot share my coursework/assignments due to the **policy** my uni has; however, these are the ones I've done during my master's degree.
 
 **Semester-1**
 - **Machine Learning**: 
