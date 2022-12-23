@@ -31,3 +31,8 @@ I cannot share my coursework/assignments due to the **policy** my uni has; howev
 - Assignment-1: Fashion MNIST Classification
 - **Computational Creativity: Assignment**: 
 - Food recipe generator and the image generation from the recipes using LSTM and Big Sleep 
+
+**Semester-3**
+- **MSc Project:**: 
+- Deep Learning-Based Blood Pressure Estimation Using Contactless Webcam PPG Measurements: 
+
