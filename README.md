@@ -33,6 +33,6 @@ I cannot share my coursework/assignments due to the **policy** my uni has; howev
 - Food recipe generator and the image generation from the recipes using LSTM and Big Sleep 
 
 **Semester-3**
-- **MSc Project:**: 
+- **MSc Project:**
 - Deep Learning-Based Blood Pressure Estimation Using Contactless Webcam PPG Measurements: 
 
