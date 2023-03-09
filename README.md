@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm an MSc Artificial Intelligence student in London at QMUL.
+I'm an MSc Artificial Intelligence alumni.
 
 I cannot share my coursework/assignments due to the **policy** my uni has; however, these are the ones I've done during my master's degree.
 
