@@ -1,6 +1,7 @@
 ### Hi there
 
-I'm an MSc Artificial Intelligence alumni.
+As a recent MSc Artificial Intelligence graduate with a strong background in machine learning, data science and full-stack development, I am excited to begin my career in the tech industry.
+With experience in technologies such as ML, DL, NLP, Python, SQL, Javascript, Flask and Django, I am comfortable working across the full stack and enjoy the challenge of tackling complex problems. I am constantly seeking opportunities to learn and grow in this field. I am eager to join a team of motivated professionals and contribute my skills and enthusiasm to a dynamic and innovative company.
 
 I cannot share my coursework/assignments due to the **policy** my uni has; however, these are the ones I've done during my master's degree.
 
