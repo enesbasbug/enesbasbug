@@ -1,7 +1,13 @@
 ### Hi there
+As a software engineer with a master's degree in artificial intelligence, I have a passion for using technology to solve complex problems. My experience in deep learning, machine learning, and data science tools has given me a strong foundation in creating innovative solutions that can drive business growth.
 
-As a recent MSc Artificial Intelligence graduate with a strong background in machine learning, data science and full-stack development, I am excited to begin my career in the tech industry.
-With experience in technologies such as ML, DL, NLP, Python, SQL, Javascript, Flask and Django, I am comfortable working across the full stack and enjoy the challenge of tackling complex problems. I am constantly seeking opportunities to learn and grow in this field. I am eager to join a team of motivated professionals and contribute my skills and enthusiasm to a dynamic and innovative company.
+My technical expertise includes proficiency in Python, SQL, Django, Flask, and web development technologies such as HTML, CSS, Javascript, Tailwind CSS, and React JS. I am skilled at collaborating with cross-functional teams to deliver high-quality software solutions that meet business requirements and exceed user expectations.
+
+I am an analytical thinker and a problem-solver with a dedication to continuous learning and professional development. With a focus on innovation and user-centered design, I am committed to creating software that delivers value to users and achieves business objectives.
+
+If you're interested in connecting with me, please don't hesitate to send me a message. I'm always eager to collaborate and learn from like-minded professionals in the field.
+
+##
 
 I cannot share my coursework/assignments due to the **policy** my uni has; however, these are the ones I've done during my master's degree.
 
