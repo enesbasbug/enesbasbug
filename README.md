@@ -1,3 +1,7 @@
+## See my websites:
+[enesinlondon.com](https://enesinlondon.com)
+[enesbasbug.com](https://enesbasbug.com)
+
 ### Hi there
 As a software engineer with a master's degree in artificial intelligence, I have a passion for using technology to solve complex problems. My experience in deep learning, machine learning, and data science tools has given me a strong foundation in creating innovative solutions that can drive business growth.
 
