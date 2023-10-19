@@ -10,7 +10,3 @@ I am an analytical thinker and a problem-solver with a dedication to continuous 
 If you're interested in connecting with me, please don't hesitate to send me a message. I'm always eager to collaborate and learn from like-minded professionals in the field.
 ##
 
-I cannot share my coursework/assignments due to the **policy** my uni has; however, these are the ones I've done during my master's degree.
-
-
-
