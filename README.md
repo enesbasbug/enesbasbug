@@ -1,4 +1,4 @@
-## See my websites:
+
 
 ### Hi there
 As a software engineer with a master's degree in artificial intelligence, I have a passion for using technology to solve complex problems. My experience in deep learning, machine learning, and data science tools has given me a strong foundation for creating innovative solutions that can drive business growth.
